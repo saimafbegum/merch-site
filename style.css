@@ -140,12 +140,12 @@ select:focus {
     border-radius: 20px;
     box-shadow: 0 8px 30px rgba(0,0,0,0.2);
     text-align: center;
-    width: 30rem;
-    height: 20rem;
+    width: 25rem;
+    height: 16rem;
     color: white;
 }
 .banner h1{
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 .sliding-text {
     height: 2.5rem; /* adjust as per font size */
@@ -187,7 +187,7 @@ select:focus {
     width: 4rem;
     border-radius: 50%;
     position: absolute;
-    left: 25rem;
+    left: 23rem;
     top: -1rem;
 }
 .blue{
@@ -196,7 +196,7 @@ select:focus {
     width: 2.5rem;
     border-radius: 50%;
     position: absolute;
-    left: 0.5rem;
+    left: -1rem;
     top: 2rem;
 }
 .yellow{
@@ -214,8 +214,8 @@ select:focus {
     width: 5.6rem;
     border-radius: 50%;
     position: absolute;
-    left: 22.5rem;
-    top:12.5rem;
+    left: 22rem;
+    top:12rem;
 }
 .product{ 
    margin: 2rem;
@@ -225,7 +225,8 @@ select:focus {
 }
 .order{
     position: absolute;
-    left: 40%;
+    margin-top:1rem;
+    left: 35%;
     height: 4rem;
     background-color: #4285F4;
     border: none;
