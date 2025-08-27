@@ -108,7 +108,7 @@ select:focus {
     box-shadow: 0 0 0.3rem rgba(74,144,226,0.6);
 }
 .main{
-    margin: 2rem 4rem;
+    
     padding-left: 2rem;
     padding-right: 2rem;
     border-radius: 12px;
