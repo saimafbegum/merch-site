@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Your description</p>
+        <img src="myimage.jpeg" alt="my image" height="100px" width="100px">
+        <hr>
+    </header>    
+    <h2>Education</h2>
+    <ul>
+        <li><b>Class X</b> CBSE: 9CGPA</li>
+        <li><b>Class XII</b> CBSE: 9CGPA</li>
+        <li><b>B.Tech</b> (NIT Silchar):9CGPA</li>
+    </ul>
+    <hr>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript, Bootstrap</li>
+        <li>ReactJS</li>
+        <li>NodeJS, MySQL, MongoDB</li>
+    </ul>
+    <hr>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading books</li>
+        <li>Coding</li>
+    </ul> 
+    <hr>      
+    <h2>Contact</h2>
+    <ul>
+        <li><b>Email</b>- xyz@gmail.com</li>
+        <li><a href="">LinkedIn</a></li>
+    </ul>
+    <hr>
+    <h3>Made with &hearts; by me</h3>
+</body>
+</html>
